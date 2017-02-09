@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleWidget</string>
+    <string name="empty">This is supposed to be empty</string>
+    <string name="update">Update Widget</string>
+</resources>
